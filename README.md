@@ -1,14 +1,13 @@
-## ### Gabriel, Hi there 👋
+<h3> Gabriel, Hi there 👋
 
-#### um pouco sobre mim
-<div align="center">
+<h2> um pouco sobre mim...
+
  1. 19 anos
 2. Estudante de progamação
 3. Quero ser...
   1. Frontend
   2. Backend
   ---
-  </div>
 
   
 
