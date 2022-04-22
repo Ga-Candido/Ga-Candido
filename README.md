@@ -1,6 +1,6 @@
-<h4> Gabriel, Hi there 👋
+<h1> Gabriel, Hi there 👋
 
-<h1> um pouco sobre mim...
+ um pouco sobre mim...
 
  1. 19 anos
 2. Estudante de progamação
