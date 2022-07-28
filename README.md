@@ -1,12 +1,24 @@
 <h1> Gabriel, Hi there 👋 </h1>
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=Ga-Candido"
+    alt="gargakshit"
+  />
+</p>
+<h2>
+    about me...
 
-about me...
+     1. 19 years old
+     2. programming student
+     3. I want to be...
+        
+</h2>
 
- 1. 19 years old
- 2. programming student
- 3. I want to be...
-    
----
+<div align="center">
+  <a href="https://github.com/Ga-candido">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ga-candido&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga-candido&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ### Frontend
 
@@ -22,11 +34,8 @@ about me...
 
  ---
 
+ ![Snake animation](https://github.com/Ga-candido/Ga-candido/blob/output/github-contribution-grid-snake.svg)
+
   
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=Ga-Candido"
-    alt="gargakshit"
-  />
-</p>
+
