@@ -34,7 +34,7 @@
 
  ---
 
- ![Snake animation](https://github.com/Ga-candido/Ga-candido/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Ga-Candido/Ga-Candido/blob/output/github-contribution-grid-snake.svg)
 
   
 
