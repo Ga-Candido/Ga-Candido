@@ -5,14 +5,13 @@
     alt="gargakshit"
   />
 </p>
-<h2>
-    about me...
+<br>
+about me...
 
      1. 19 years old
      2. programming student
      3. I want to be...
-        
-</h2>
+
 
 <div align="center">
   <a href="https://github.com/Ga-candido">
